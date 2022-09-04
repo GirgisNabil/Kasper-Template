@@ -331,7 +331,7 @@ header .container nav ul li a:hover {
 
 .design {
   position: relative;
-  background-image: url("/imgs/design-features.jpg");
+  background-image: url("../imgs/design-features.jpg");
   background-size: cover;
   display: flex;
   align-items: center;
@@ -552,7 +552,7 @@ header .container nav ul li a:hover {
 .about .states {
   display: grid;
   color: white;
-  background-image: url(/imgs/stats.png);
+  background-image: url(../imgs/stats.png);
   text-align: center;
   background-size: cover;
   padding: 100px 0;
